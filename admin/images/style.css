@@ -1,0 +1,14 @@
+*{margin:0; padding:0;}
+td{ padding:10px;}
+p{ line-height:24px;}
+li{ list-style:none;}
+
+.clearfix:after{
+	visibility:hidden;
+	display:block;
+	clear:both;
+	content:'';
+	font-size:0;
+	height:0;
+	zoom:1;
+	}
